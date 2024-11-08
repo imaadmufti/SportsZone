@@ -10,13 +10,6 @@ Sportswear store website built using MERN stack (MongoDB, ExpressJS, React and N
 
 ---
 
-### Sign-up Page
-
-
-<img src="/frontend/public/images/sign-up.jpg" alt="SportsZone" width="700"/>
-
----
-
 ### Product Info Page
 
 
